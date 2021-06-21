@@ -1,0 +1,6 @@
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\bin\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.dll
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\bin\Debug\netcoreapp3.1\Bitis.Library.Shared.dll
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Domain.csprojAssemblyReference.cache
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Domain\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Domain.csproj.CoreCompileInputs.cache

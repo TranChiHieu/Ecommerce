@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bitis.Ecommerce.Shared.Entity/1.0.0": {
+        "runtime": {
+          "Bitis.Ecommerce.Shared.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitis.Ecommerce.Shared.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

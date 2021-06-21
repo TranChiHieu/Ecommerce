@@ -1,0 +1,9 @@
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\bin\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.deps.json
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\bin\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.dll
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\bin\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.pdb
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.csprojAssemblyReference.cache
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.AssemblyInfoInputs.cache
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.AssemblyInfo.cs
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.csproj.CoreCompileInputs.cache
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.dll
+C:\Users\tin.nd\Desktop\Project_Build\Bitis.TikiOrderAPIs\Bitis.Ecommerce.Webservice\Bitis.Ecommerce.Shared.Entity\obj\Debug\netcoreapp3.1\Bitis.Ecommerce.Shared.Entity.pdb
